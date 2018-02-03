@@ -3,20 +3,20 @@
 This is micro-blogging app, where users can post short updates to a private social
 media site.
 
-# A post shows the following information:
+### A post shows the following information:
 1. The user who posted it
 2. The order in which it was posted
 3. The contents of the post
 4. Optionally, a web address to a site they linked
 
-# Users have:
+### Users have:
 1. The web address (url) to their avatar picture
 2. The username
 3. The person's real first name and last name
 4. The person's email address
 Every user sees all posts on this private site.
 
-# Create A Main Menu
+### Create A Main Menu
 1) Create a new user
 2) Become an existing user
 3) Create a post as the current user
